@@ -8,12 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "framework7": "^6.0.11",
-    "framework7-icons": "^4.0.2",
-    "framework7-react": "^6.0.11",
-    "material-icons": "^0.5.4",
-    "next": "10.0.7",
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "framework7": "^6.3.15",
+    "framework7-icons": "^5.0.5",
+    "framework7-react": "^6.3.15",
+    "material-icons": "^1.10.6",
+    "next": "12.0.10",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "skeleton-elements": "^3.5.0",
+    "swiper": "^6.8.4"
   }
 }
